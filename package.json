@@ -1,10 +1,10 @@
 {
-  "name": "appdmg",
+  "name": "@wahoofitness/appdmg",
   "version": "0.6.6",
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "bin": "bin/appdmg.js",
-  "repository": "LinusU/node-appdmg",
+  "repository": "WahooFitness/node-appdmg",
   "dependencies": {
     "async": "^1.4.2",
     "ds-store": "^0.1.5",
