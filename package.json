@@ -1,6 +1,6 @@
 {
   "name": "@mncharlton/appdmg",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "bin": "bin/appdmg.js",
